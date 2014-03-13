@@ -1,0 +1,25 @@
+de:
+  js:
+    follow_user:
+      button:
+        text: "Follow Profile"
+        help: "Follow this user"
+
+    user:
+      notifications:
+        title: ''
+        watching:
+          title: "Beobachten"
+          description: "Wie 'Verfolgen', zuzüglich Benachrichtigungen über neue Beiträge."
+        tracking:
+          title: "Verfolgen"
+          description: "Du wirst über ungelesene Beiträge benachrichtigt."
+        regular:
+          title: "Normal"
+          description: "Du wirst nur dann benachrichtigt, wenn jemand deinen @Namen erwähnt oder auf deine Beiträge antwortet."
+        muted:
+          title: "Ignorieren"
+          description: "Du erhältst keine Benachrichtigungen im Zusammenhang mit diesem Thema und es wird nicht in deiner Liste ungelesener Themen auftauchen."
+        regular:
+          title: "Follow"
+          description: "Benutzer wird nicht gefolgt"

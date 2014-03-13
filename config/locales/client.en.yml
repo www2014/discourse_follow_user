@@ -1,0 +1,6 @@
+en:
+  js:
+    follow_user:
+      button:
+        text: "Follow Profile"
+        help: "Follow this user"
