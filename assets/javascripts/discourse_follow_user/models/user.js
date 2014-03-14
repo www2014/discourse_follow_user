@@ -12,7 +12,7 @@ Discourse.User.reopen({
   updateNotifications: function(v) {
     this.set('notification_level', v);
     this.set('notifications_reason_id', null);
-    return Discourse.ajax("/users/" + (this.get('id')) + "/follow", {
+    return Discourse.ajax("/users/" + (this.get('username')) + "/follow", {
       type: 'POST',
       data: { notification_level: v }
     });

@@ -1,3 +1,6 @@
 = DiscourseFollowUser
 
+rake discourse_follow_user:install:migrations
+
+
 This project rocks and uses MIT-LICENSE.
